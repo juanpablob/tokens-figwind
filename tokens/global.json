@@ -150,5 +150,13 @@
   "xs": {
     "value": 8,
     "type": "spacing"
+  },
+  "sm": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "md": {
+    "value": 32,
+    "type": "spacing"
   }
 }
